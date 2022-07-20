@@ -2,4 +2,4 @@ service-b: abc
 spring:
   datasource:
     username: dbuser
-    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
+    password: '{cipher}d8371cb4267472a6faa81ce0fd2a6ef01a899f773f1d900bb0907da1d3404705'
